@@ -1,0 +1,1 @@
+# Notas del curso de IA generativa de Udacity
