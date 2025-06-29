@@ -318,3 +318,7 @@ Foundation models represent a significant shift in machine learning and artifici
 * Shared Architecture - A single foundation model can act as a base for developing numerous specialized models. This approach significantly reduces the resources and time required to develop new models for different tasks, as it eliminates the need to train a new model from the ground up for each specific application.
 
 Examples of foundation models include BERT for natural language understanding, GPT-3 for generative text applications, and T5, which handles a range of text-based tasks. The concept extends beyond language models, encompassing any pre-trained model that offers a foundational platform for further specialized learning and application development.
+
+## PartyRock App
+
+[Asistente Legal Colombiano 🇨🇴](https://partyrock.aws/u/knutria/SUiasmpsS/DerechoClaro)
